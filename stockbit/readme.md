@@ -1,19 +1,19 @@
 #readme
 Stockbit-Quarterly-Deskriptif.ipynb: 
 
-Graph plot of all data together
+	Graph plot of all data together
   
 scraper_stockbit_transpose-yearly.ipynb
 
-Join all data fundamental, industry sector, commodity, macro economy
+	Join all data fundamental, industry sector, commodity, macro economy
   
 scraper_stockbit_transpose.ipynb
 
-transform selenium_stockbit-single.ipynb from row based to column-based
+	transform selenium_stockbit-single.ipynb from row based to column-based
   
 selenium_stockbit-fill-watchlist.ipynb
 
-not done yet (supposed to monitor watchlist performance using Stockbit data)
+	not done yet (supposed to monitor watchlist performance using Stockbit data)
   
 selenium_stockbit-quarterly.ipynb
 
